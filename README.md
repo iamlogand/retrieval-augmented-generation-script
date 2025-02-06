@@ -1,6 +1,6 @@
 # Retrieval-Augmented Generation (RAG) Tutorial
 
-A chatbot script that uses retrieval-augmented generation (RAG).
+A chatbot script that uses retrieval-augmented generation (RAG) to answer questions about a given document.
  
 The RAG component is based on this tutorial: https://python.langchain.com/docs/use_cases/question_answering/
 
